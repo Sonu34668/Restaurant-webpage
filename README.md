@@ -1,4 +1,4 @@
-# Restaurant-webpage
+<h1>Restaurant Webpage</h1>
 
 <h3>Task:</h3>
 Create a responsive and accessible web page for a restaurant, including a header with a navigation menu and social icons, a main content section with an image background, an About us section, a Menu section with multiple items, a Find Us section with a Google Maps embed and contact information, and a footer. The website should work on all devices and be accessible to users with disabilities.
